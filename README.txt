@@ -1,0 +1,1 @@
+Simple Marquee is a very basic JQuery plugin which allows you to create a cross-browser compatible continously looping scrolling text marquee.
